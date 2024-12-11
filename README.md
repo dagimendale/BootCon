@@ -72,9 +72,3 @@ AxCrypt stands out as a vital tool for enhancing data security. Its intuitive de
 - As the cybersecurity landscape evolves, AxCrypt remains a valuable ally for safeguarding sensitive data.
 
 ---
-
-## How to Use This Repository
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
